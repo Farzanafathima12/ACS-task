@@ -1,0 +1,25 @@
+body{
+    background-color:black;
+}
+.container{
+    padding:10px 10px;
+    height: 10px;
+}
+.divider{
+    margin:auto;
+    height:100px;
+    width:200px;
+    align-items: center;
+}
+.large{
+    align-self:center;
+    width: 450px;
+    background-color:aqua;
+    height:20px;
+}
+h1{
+    color:white;
+    padding:10px;
+    text-align:center;
+    height: 2px;
+}
